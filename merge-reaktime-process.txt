@@ -1,0 +1,4 @@
+# firt clone the cpde, create new branch and do changes then commit.
+2. push the code to centralrepo & raise the PR ot MR process 
+      & add Reviewers.
+3. once reviewers approved then merge.
